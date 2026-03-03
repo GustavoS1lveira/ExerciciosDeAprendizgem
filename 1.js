@@ -1,4 +1,3 @@
-let x = "Gustavo Silveira"
-var y = 20
+x = 10
 
-console.log("Hey, my name is", x, "and i am", y, "years old")
+console.log(x > 5);
