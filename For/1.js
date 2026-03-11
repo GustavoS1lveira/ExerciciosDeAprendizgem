@@ -22,4 +22,4 @@ console.log(contador)
 
 // "i++" ele incrementa um valor a mais
 
-// "contador" ele conta somando "++"
+// "contador" ele conta somando "++" (é opicional)
