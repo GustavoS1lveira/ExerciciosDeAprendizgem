@@ -11,3 +11,4 @@ function TrocarFoto(){ // function que foi criada baseada no HTML, junto com o I
         x = 0;
     }
 } 
+

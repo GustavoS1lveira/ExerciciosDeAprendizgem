@@ -1,0 +1,36 @@
+.containerTotal{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.containerTitulo{
+    display: flex;
+    background-color: black;
+    text-align: center;
+}
+
+.eu{
+    color:white
+}
+
+.about{
+    color: white;
+    width: 300px;
+    height: 300px;
+}
+
+.FotoTroca{
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.FotoTroca img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
